@@ -32,5 +32,3 @@ Usage:
 
 <img src="https://habrastorage.org/files/b95/803/a88/b95803a88e73497e831a39246aade604.png" width="600"/>
 
-Demo:
-https://media.giphy.com/media/3oz8xDVAMXUOyxtO7u/giphy.gif
